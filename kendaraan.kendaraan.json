@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "68255ff2f9c6fb5b116c4bd3"
+  },
+  "nama": "Supra",
+  "jenis": "Motor"
+},
+{
+  "_id": {
+    "$oid": "68255ff2f9c6fb5b116c4bd4"
+  },
+  "nama": "Toyota",
+  "jenis": "Mobil"
+}]
